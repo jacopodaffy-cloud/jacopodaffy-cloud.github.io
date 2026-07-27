@@ -10,5 +10,17 @@
         "4B:DE:25:CB:0B:42:AD:9B:3D:C7:06:51:7E:23:1D:5E:AF:CC:C3:35:0A:37:B9:B6:14:5A:F2:E6:8D:7F:95:41"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.quicklist.twa",
+      "sha256_cert_fingerprints": [
+        "EA:8E:A4:AF:5B:0C:BA:B5:70:C3:F3:AD:06:50:F8:13:AB:92:64:2A:C8:DB:2A:52:AE:9F:5B:C6:88:ED:2C:78"
+      ]
+    }
   }
 ]
